@@ -1,6 +1,8 @@
 <h1>
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fe853809-ba8b-400b-83ab-a9a0da25be8a" alt="Logo" width="128">
+  <a href="https://github.com/ghostty-org">
+    <img src="https://avatars.githubusercontent.com/u/169223740?s=200&v=4" alt="Logo" width="128">
+  </a>
   <br>Ghostty
 </h1>
   <p align="center">
