@@ -8,7 +8,7 @@
   <p align="center">
     Fast, native, feature-rich terminal emulator pushing modern features.
     <br />
-    <strong>Currently in private beta. Join our Discord community!</strong>
+    <strong><a href="https://ghostty.org">https://ghostty.org</a></strong>
   </p>
   <p align="center">
     <a target="_blank" href="https://discord.gg/ghostty">
